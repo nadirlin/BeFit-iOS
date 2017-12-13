@@ -1,0 +1,3 @@
+El nombre del proyecto esta como "FoodTracker", ya que tuve problemas al momento de instalar Realm.
+Seguí los pasos del tutorial, supuestamente se instalo y/o configuró correctamente, pero al momento de querer importar
+RealmSwift no me reconocía, así que tuve que utilizar como "plantilla" el proyecto que hicimos en clase.
